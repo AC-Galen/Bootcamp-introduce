@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align:center;
+  height: 60px;
+  color: #666666;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.08);
+}
+h2, h3 {
+  text-align:center;
+  flex-basis: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+  }
